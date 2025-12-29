@@ -1,0 +1,33 @@
+# cargo.toml = rust项目的工程说明书+构建规则+依赖管理中心
+
+[package]
+# 项目名称
+# 影响crate的名称、最终二进制文件名、发不到crate.io的名称
+name = "rust-cli-playground"
+# 项目版本
+version = "0.1.0"
+# rust的语言年代，不是编译器的版本
+edition = "2024"
+
+[dependencies]
+# 基础写法
+# serde = "1.0"
+# 等价于
+# serde = { version = "^1.0" }
+# 精细控制
+# serde = { version = "1.0", features = ["derive"] }
+# features： 编译期开关，不需要的代码不编译，减少体积，避免无用依赖
+
+# [dev-dependencies]
+# tokio = { version = "1", features = ["macros"] }
+# 只在开发阶段使用
+
+# [features]
+# default = ["mysql"]
+# mysql = []
+# postgres = []
+# 使用方式：
+# #[cfg(feature = "mysql")]
+# fn connect_mysql() {}
+# 启用方式：
+# cargo build --features mysql

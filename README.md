@@ -18,7 +18,7 @@
 
 ### 学习路径与决策
 - [001. 我要不要从《The Rust Programming Language》开始学 Rust？](./notes/001-我要不要从《The%20Rust%20Programming%20Language》开始学Rust.md)
-- [002-刚开始用Rust时我为什么觉得模块系统特别乱?](./notes/002-刚开始用Rust时我为什么觉得模块系统特别乱.md)
+- [002. 刚开始用Rust时我为什么觉得模块系统特别乱?](./notes/002-刚开始用Rust时我为什么觉得模块系统特别乱.md)
 
 ### 所有权 / 借用 / 生命周期
 （暂空）
@@ -27,7 +27,7 @@
 （暂空）
 
 ### 项目与实践
-（暂空）
+- [rust-cli-playground](./projects/rust-cli-playground/README.md) level0 练习rust项目结构与模块拆分
 
 
 
