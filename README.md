@@ -2,8 +2,6 @@
 
 这是我从 **Golang / Java 转向 Rust** 过程中的学习与思考记录。
 
----
-
 ## 🎯 这个仓库是干什么的？
 
 - 记录我在学习 Rust 过程中：
@@ -16,12 +14,21 @@
 > 这里不是教程，  
 > 很多内容甚至是“阶段性错误理解”。
 
----
+## 📂 学习记录索引
 
-## 📂 内容结构
+### 学习路径与决策
+- [001. 我要不要从《The Rust Programming Language》开始学 Rust？](./notes/001-我要不要从《The%20Rust%20Programming%20Language》开始学Rust.md)
+
+### 所有权 / 借用 / 生命周期
+（暂空）
+
+### trait / 泛型 / 抽象设计
+（暂空）
+
+### 项目与实践
+（暂空）
 
 
----
 
 ## 🏗️ 和主线项目的关系
 
@@ -31,7 +38,6 @@
 👉 Rust IoT 数据中台  
 https://github.com/WenshuaiDev/vector-iot
 
----
 
 ## 🌱 适合谁看？
 
