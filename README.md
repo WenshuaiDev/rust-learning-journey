@@ -1,17 +1,40 @@
-# Golang / Java → Rust Learning Journey
+# 📘 Rust 学习记录（真实踩坑）
 
-This repo records my real journey of learning Rust
-as a junior backend engineer.
+这是我从 **Golang / Java 转向 Rust** 过程中的学习与思考记录。
 
-## Why this repo
-- Rust is powerful but hard for beginners
-- Especially confusing for Go / Java developers
-- I want to record real mistakes & mindset shifts
+---
 
-## Structure
-- Notes by day
-- Go / Java vs Rust comparison
-- Small runnable demos
+## 🎯 这个仓库是干什么的？
 
-## Status
-🚧 Updating day by day
+- 记录我在学习 Rust 过程中：
+  - 卡住的地方
+  - 错误理解
+  - 推翻重来的设计
+- 存放一些 **验证想法的小实验代码**
+- 为我的主线项目做技术与认知上的准备
+
+> 这里不是教程，  
+> 很多内容甚至是“阶段性错误理解”。
+
+---
+
+## 📂 内容结构
+
+
+---
+
+## 🏗️ 和主线项目的关系
+
+这个仓库中的很多思考，  
+都会被逐步应用到我的主线项目中：
+
+👉 Rust IoT 数据中台  
+https://github.com/WenshuaiDev/vector-iot
+
+---
+
+## 🌱 适合谁看？
+
+- 正在学习 Rust 的后端工程师
+- 想看到“真实学习过程”的人
+- 不追求速成，但愿意慢慢打基础的人
