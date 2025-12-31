@@ -28,6 +28,7 @@
 
 ### 项目与实践
 - [rust-cli-playground](./projects/rust-cli-playground/README.md) level0 练习rust项目结构与模块拆分
+- [003.作为独立开发者我应该怎么创造一个系统?](./notes/003-作为独立开发者我应该怎么创造一个系统？.md)
 
 
 
